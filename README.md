@@ -1,22 +1,46 @@
-Olá! Sou a Giovanna!
+# 👋 Olá, eu sou a Giovanna!
 
-- 🌱 Front-End
-- 👯 Colaboro com projetos Front-End, React e CSS
-- 📫 Contate-me no email: giovannamiguelrebizzi@gmail.com
+<img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="100%">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div > 
-  <a href="https://instagram.com/gi_rebizzi" target="_blank"><img  align="center"height="30" width="30" gap="10"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png"target="_blank"></a>
-  <a href = "mailto:giovannamiguelrebizzi@gmail.com"><img  align="center"height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanna-rebizzi-356b52267/" target="_blank">
-    <img  align="center"height="30" width="30" gap="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank"></a> 
-  
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 </div>
 
+---
 
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="(https://www.linkedin.com/in/giovanna-rebizzi-356b52267/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="(https://www.instagram.com/gi_rebizzi/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="link para o site pessoal"><img src="https://img.shields.io/badge/Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</div>
+
+---
+
+## 📧 Contato
+
+Para projetos, colaborações ou caso tenha alguma dúvida, sinta-se à vontade para entrar em contato: **(mailto: giovannamiguelrebizzi@gmail.com)**
+
+---
+
+<div align="center">
+  <strong>"A ciência de hoje é a tecnologia de amanhã." - Edward Teller</strong>
+</div>
